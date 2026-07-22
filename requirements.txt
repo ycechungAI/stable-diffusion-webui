@@ -8,7 +8,7 @@ clean-fid
 einops
 fastapi>=0.90.1
 gfpgan
-gradio==5.11.0
+gradio==6.15.1
 inflection
 jsonmerge
 kornia
@@ -31,4 +31,4 @@ tomesd
 torch
 torchdiffeq
 torchsde
-transformers==4.48.0
+transformers==5.5.0
