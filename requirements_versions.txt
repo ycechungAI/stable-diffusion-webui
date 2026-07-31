@@ -1,4 +1,4 @@
-GitPython==3.1.41
+GitPython==3.1.54
 Pillow==12.3.0
 accelerate==0.21.0
 basicsr==1.4.2
@@ -7,7 +7,7 @@ clean-fid==0.1.35
 einops==0.4.1
 fastapi==0.109.1
 gfpgan==1.3.8
-gradio==6.15.1
+gradio==6.22.0
 httpcore==0.15
 inflection==0.5.1
 jsonmerge==1.8.0
@@ -18,7 +18,7 @@ omegaconf==2.2.3
 open-clip-torch==2.20.0
 piexif==1.1.3
 psutil==5.9.5
-pytorch_lightning==2.6.1
+pytorch_lightning==2.6.5
 realesrgan==0.3.0
 resize-right==0.0.2
 safetensors==0.3.1
@@ -28,5 +28,5 @@ tomesd==0.1.3
 torch
 torchdiffeq==0.2.3
 torchsde==0.2.6
-transformers==5.5.0
+transformers==5.14.1
 httpx==0.24.1
